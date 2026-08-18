@@ -1,6 +1,6 @@
 Designer: Galloway, K
 
-Alias: "Carbon"
+Business: "Ya Ikou!"
 	
 For additional models:
 \
